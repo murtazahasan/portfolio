@@ -1,0 +1,52 @@
+/* .rtuck {
+  color: red;
+  transition: color 0.3s ease, font-size 0.3s ease;
+}
+
+.rtuck:hover {
+  color: green;
+  font-size: 1.5em;
+} */
+
+/* .header{
+
+} */
+/**/
+/* .home{
+
+} */
+/**/
+
+/* .about{
+
+} */
+
+/**/
+
+/* .project{
+
+} */
+
+/**/
+
+/* .contact{
+
+} */
+
+/**/
+/* Add this CSS to your existing styles */
+/* @media (min-width: 360px) {
+  .footer1 {
+    display: block;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer2 {
+    margin-top: 1rem;
+  }
+} */
+
+
+
+/* <div className={` ${style.footer1, style.footer2} nav footer-1 col-md-4 mb-3 pb-3 justify-content-center d-flex`}> */

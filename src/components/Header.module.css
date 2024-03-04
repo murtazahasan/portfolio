@@ -1,0 +1,38 @@
+.myLogo {
+  padding-left: 62px;
+}
+
+.mynav {
+  padding-left: 860px;
+}
+
+/* @media (max-width: 767.98px) {
+  .myLogo {
+    padding-left: 0;
+  }
+
+  .mynav {
+    padding-left: 0;
+  }
+} */
+
+  @media (max-width: 1379px) and (min-width: 991px) {
+    .myLogo {
+      padding-left: 0;
+    }
+  
+    .mynav {
+      padding-left: 0;
+    }
+  }
+  
+  @media (max-width: 990px) {
+    .myLogo {
+      padding-left: 0;
+    }
+  
+    .mynav {
+      padding-left:0 ;
+    }
+  }
+
