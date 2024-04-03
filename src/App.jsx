@@ -141,10 +141,10 @@ function App() {
                     />
                   </div>
                   <div className="col-2">
-                    <img src="adobe-40.png" alt="delete" className="w-100" />
+                    <img src="next-40.png" alt="delete" className="w-100" />
                   </div>
                   <div className="col-2">
-                    <img src="figma-40.png" alt="delete" className="w-100" />
+                    <img src="typescript-40.png" alt="delete" className="w-100" />
                   </div>
                 </div>
               </div>
@@ -179,10 +179,10 @@ function App() {
               is to create and develop a clean UI/UX for my users.
             </p>
             <p data-aos="flip-down" data-aos-duration="1000" className="lead">
-              I have experience in HTML, CSS, JavaScript, React, Bootstrap,
-              Tailwind and Figma. I enjoy learning new technologies and
-              frameworks, and I'm always looking for new challenges and
-              opportunities to improve my skills.
+              I have experience in HTML, CSS, Bootstrap, Tailwind, JavaScript,
+              React.js, Redux, Next.js, and TypeScript. I enjoy learning new
+              technologies and frameworks, and I'm always looking for new
+              challenges and opportunities to improve my skills.
             </p>
           </div>
         </div>
@@ -191,6 +191,7 @@ function App() {
       {/* project */}
 
       <div style={{ backgroundColor: "#f9f9f1" }} className="container-fluid ">
+        {/* MyShop */}
         <div className="container col-xxl-8 px-4 py-5" ref={projectRef}>
           <h1
             data-aos="flip-left"
@@ -257,12 +258,12 @@ function App() {
             </div>
           </div>
         </div>
-
+        {/* flavio restaurant */}
         <div className="container col-xxl-8 px-4 py-5">
           <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
             <div className="col-10 col-sm-8 col-lg-6">
               <img
-                src="mat.PNG"
+                src="restaurant.PNG"
                 className="d-block mx-lg-auto img-fluid"
                 style={{ borderRadius: "6% 6% 6% 6%" }}
                 alt="Bootstrap Themes"
@@ -277,10 +278,12 @@ function App() {
                 data-aos-duration="1500"
                 className="display-5 fw-bold text-body-emphasis lh-1 mb-3"
               >
-                MAT
+                FLAVIO
               </h1>
               <p className="lead">
-              A versatile animation library empowering creators to bring their visions to life. With MAT, you can seamlessly craft captivating animations using a variety of features.
+                A delightful culinary journey where flavors come alive. Explore
+                our menu, savor exquisite dishes, and experience the art of fine
+                dining
               </p>
               <div
                 data-aos="flip-right"
@@ -307,12 +310,12 @@ function App() {
             </div>
           </div>
         </div>
-
+        {/* MAT */}
         <div className="container col-xxl-8 px-4 py-5">
           <div className="row align-items-center g-5 py-5">
             <div className="col-10 col-sm-8 col-lg-6">
               <img
-                src="carrental.PNG"
+                src="mat.PNG"
                 className="d-block mx-lg-auto border img-fluid "
                 style={{ borderRadius: "6% 6% 6% 6%" }}
                 alt="Bootstrap Themes"
@@ -327,10 +330,12 @@ function App() {
                 data-aos-duration="1500"
                 className="display-5 fw-bold text-body-emphasis lh-1 mb-3"
               >
-                CAR RENTAL
+                MAT
               </h1>
               <p className="lead">
-              Unlock the road to convenience and adventure with our Car Rental platform. Whether you’re planning a cross-country journey or a weekend escape, our user-friendly website offers seamless bookings.
+                A versatile animation library empowering creators to bring their
+                visions to life. With MAT, you can seamlessly craft captivating
+                animations using a variety of features.
               </p>
 
               <div
@@ -358,12 +363,12 @@ function App() {
             </div>
           </div>
         </div>
-
+        {/* CAR RENTAL */}
         <div className="container col-xxl-8 px-4 py-5">
           <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
             <div className="col-10 col-sm-8 col-lg-6">
               <img
-                src="space.PNG"
+                src="carrental.PNG"
                 className="d-block mx-lg-auto img-fluid"
                 style={{ borderRadius: "6% 6% 6% 6%" }}
                 alt="Bootstrap Themes"
@@ -378,10 +383,13 @@ function App() {
                 data-aos-duration="1500"
                 className="display-5 fw-bold text-body-emphasis lh-1 mb-3"
               >
-                ORBIT-GUIDE
+                CAR RENTAL
               </h1>
               <p className="lead">
-              Navigate the cosmos with our celestial compass. Explore astronomical wonders, planetary alignments, and cosmic events. Orbit Guide is your portal to the universe.
+                Unlock the road to convenience and adventure with our Car Rental
+                platform. Whether you’re planning a cross-country journey or a
+                weekend escape, our user-friendly website offers seamless
+                bookings.
               </p>
               <div
                 data-aos="flip-right"
@@ -402,6 +410,59 @@ function App() {
                   https://orbit-guide.vercel.app/"
                   target="_blank"
                   className=" fs-4 pt-3  text-black "
+                >
+                  <BsBoxArrowUpRight />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* ORBIT-GUIDE */}
+        <div className="container col-xxl-8 px-4 py-5">
+          <div className="row align-items-center g-5 py-5">
+            <div className="col-10 col-sm-8 col-lg-6">
+              <img
+                src="space.PNG"
+                className="d-block mx-lg-auto border img-fluid "
+                style={{ borderRadius: "6% 6% 6% 6%" }}
+                alt="Bootstrap Themes"
+                width="700"
+                height="500"
+                loading="lazy"
+              />
+            </div>
+            <div className="col-lg-6">
+              <h1
+                data-aos="zoom-in"
+                data-aos-duration="1500"
+                className="display-5 fw-bold text-body-emphasis lh-1 mb-3"
+              >
+                ORBIT-GUIDE
+              </h1>
+              <p className="lead">
+                Navigate the cosmos with our celestial compass. Explore
+                astronomical wonders, planetary alignments, and cosmic events.
+                Orbit Guide is your portal to the universe.
+              </p>
+
+              <div
+                data-aos="flip-right"
+                data-aos-duration="1500"
+                className="d-grid gap-2 d-md-flex mt-3 justify-content-md-start"
+              >
+                <span className="pt-4 fw-bold">code</span>
+                <a
+                  href="https://github.com/murtazahasan/Car_Rental.git"
+                  target="_blank"
+                  className=" fs-2 pt-2 text-black "
+                >
+                  <FiGithub />
+                </a>
+                <span className="pt-4 fw-bold">live demo</span>
+                <a
+                  href="https://car-rental-plum-eight.vercel.app/"
+                  target="_blank"
+                  className=" fs-4 pt-3 text-black "
                 >
                   <BsBoxArrowUpRight />
                 </a>
@@ -446,8 +507,13 @@ function App() {
                 className="feature col-md-6"
               >
                 <img src="linkedinLogo.png" alt="Vector Art" className="" />
-
-                <h3 className="fs-2 text-body-emphasis">linkedin</h3>
+                <a
+                  href="https://www.linkedin.com/in/murtazahasan786/"
+                  className="text-decoration-none cursor-pointer"
+                  target="_blank"
+                >
+                  <h3 className="fs-2 text-body-emphasis">linkedin</h3>
+                </a>
                 <a
                   className="text-reset fs-5 text-decoration-none cursor-pointer"
                   target="_blank"
