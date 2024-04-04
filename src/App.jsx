@@ -292,7 +292,7 @@ function App() {
               >
                 <span className="pt-4 fw-bold">code</span>
                 <a
-                  href="https://github.com/murtazahasan/MAT.git"
+                  href="https://github.com/murtazahasan/FLAVIO-RESTAURANT"
                   target="_blank"
                   className=" fs-2 pt-2 text-black "
                 >
@@ -300,7 +300,7 @@ function App() {
                 </a>
                 <span className="pt-4 fw-bold">live demo</span>
                 <a
-                  href="https://mat-alpha.vercel.app/"
+                  href="https://flavio-restaurant.vercel.app/"
                   target="_blank"
                   className=" fs-4 pt-3  text-black "
                 >
@@ -345,7 +345,7 @@ function App() {
               >
                 <span className="pt-4 fw-bold">code</span>
                 <a
-                  href="https://github.com/murtazahasan/Car_Rental.git"
+                  href="https://github.com/murtazahasan/MAT.git"
                   target="_blank"
                   className=" fs-2 pt-2 text-black "
                 >
@@ -353,7 +353,7 @@ function App() {
                 </a>
                 <span className="pt-4 fw-bold">live demo</span>
                 <a
-                  href="https://car-rental-plum-eight.vercel.app/"
+                  href="https://mat-alpha.vercel.app/"
                   target="_blank"
                   className=" fs-4 pt-3 text-black "
                 >
@@ -398,7 +398,7 @@ function App() {
               >
                 <span className="pt-4 fw-bold">code</span>
                 <a
-                  href="https://github.com/murtazahasan/Orbit-Guide.git"
+                  href="https://github.com/murtazahasan/Car_Rental.git"
                   target="_blank"
                   className=" fs-2 pt-2 text-black "
                 >
@@ -407,7 +407,7 @@ function App() {
                 <span className="pt-4 fw-bold">live demo</span>
                 <a
                   href="
-                  https://orbit-guide.vercel.app/"
+                  https://car-rental-plum-eight.vercel.app/"
                   target="_blank"
                   className=" fs-4 pt-3  text-black "
                 >
@@ -452,7 +452,7 @@ function App() {
               >
                 <span className="pt-4 fw-bold">code</span>
                 <a
-                  href="https://github.com/murtazahasan/Car_Rental.git"
+                  href="https://github.com/murtazahasan/Orbit-Guide.git"
                   target="_blank"
                   className=" fs-2 pt-2 text-black "
                 >
@@ -460,7 +460,7 @@ function App() {
                 </a>
                 <span className="pt-4 fw-bold">live demo</span>
                 <a
-                  href="https://car-rental-plum-eight.vercel.app/"
+                  href="https://orbit-guide.vercel.app/"
                   target="_blank"
                   className=" fs-4 pt-3 text-black "
                 >
