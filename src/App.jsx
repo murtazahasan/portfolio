@@ -144,7 +144,11 @@ function App() {
                     <img src="next-40.png" alt="delete" className="w-100" />
                   </div>
                   <div className="col-2">
-                    <img src="typescript-40.png" alt="delete" className="w-100" />
+                    <img
+                      src="typescript-40.png"
+                      alt="delete"
+                      className="w-100"
+                    />
                   </div>
                 </div>
               </div>
@@ -179,10 +183,10 @@ function App() {
               is to create and develop a clean UI/UX for my users.
             </p>
             <p data-aos="flip-down" data-aos-duration="1000" className="lead">
-              I have experience in HTML, CSS, Bootstrap, Tailwind, JavaScript,
-              React.js, Redux, Next.js, and TypeScript. I enjoy learning new
-              technologies and frameworks, and I'm always looking for new
-              challenges and opportunities to improve my skills.
+              I have experience in HTML, CSS, Bootstrap, Tailwind, Photoshop,
+              JavaScript, React.js, Redux, Next.js, and TypeScript. I enjoy
+              learning new technologies and frameworks, and I'm always looking
+              for new challenges and opportunities to improve my skills.
             </p>
           </div>
         </div>
@@ -522,11 +526,7 @@ function App() {
                   linkedin
                 </a>
               </div>
-              <div
-                data-aos="flip-up"
-                data-aos-duration="1500"
-                className="feature col-md-6 offset-md-6 offset-0 col-12 offset-xl-0 col-xl-6"
-              >
+              <div className="feature col-md-6 offset-md-6 offset-0 col-12 offset-xl-0 col-xl-6">
                 <img src="emailLogo.png" alt="Vector Art" className="" />
 
                 <h3 className="fs-2 text-body-emphasis">Mail</h3>
